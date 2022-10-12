@@ -1,0 +1,126 @@
+{
+ "Jogadores": [
+    {
+    "id": 1,
+    "nome": "Neymar",
+    "email": "Assistenteneymar@jogador.10",
+    "time": "Paris Saint-Germain (psg)",
+    "pais": "França",
+    "Selecao": "Brasil",
+    "Camisa": "10"
+    },
+    {
+    "id": 2,
+    "nome": "Lionel Messi",
+    "email": "Assistentemessi@jogador.gol",
+    "time": "Paris Saint-Germain (psg)",
+    "pais": "França",
+    "Selecao": "Argentina",
+    "Camisa": "10"
+    },
+    {
+    "id": 3,
+    "nome": "Vinicius Junior",
+    "email": "vjr.assistente@jogador.br",
+    "time": "Real Madrid",
+    "pais": "Espanha",
+    "Selecao": "Brasil",
+    "Camisa": "20"
+    },
+    {
+    "id": 4,
+    "nome": "Antony",
+    "email": "antony@jogador.10",
+    "time": "Manchester United ",
+    "pais": "Reino Unido",
+    "Selecao": "Brasil",
+    "Camisa": "21"
+    },
+    {
+    "id": 5,
+    "nome": "Gabriel Barbosa",
+    "email": "gabigol@assistente.tv",
+    "time": "Flamengo",
+    "pais": "Brasil",
+    "Selecao": "Brasil",
+    "Camisa": "9"
+    },
+    {
+    "id": 6,
+    "nome": "Cristiano Ronaldo",
+    "email": "AssistenteCR7@jogador.tv",
+    "time": "Manchester United",
+    "pais": "Reino Unido",
+    "Selecao": "Portugal",
+    "Camisa": "7"
+    },
+    {
+    "id": 7,
+    "nome": "Diego Ribas",
+    "email": "diego@ribasassistente.br",
+    "time": "Flamengo",
+    "pais": "Brasil",
+    "Selecao": "Brasil",
+    "Camisa": "10"
+    },
+    {
+    "id": 8,
+    "nome": "Arrascaeta ",
+    "email": "Assistente@giorgian.10",
+    "time": "Flamengo",
+    "pais": "Brasil",
+    "Selecao": "Uruguai",
+    "Camisa": "10"
+    },
+    {
+    "id": 9,
+    "nome": " Mbappé ",
+    "email": " Mbappé@jogador.assistente",
+    "time": "Paris Saint-Germain (psg)",
+    "pais": "França",
+    "Selecao": "Franca",
+    "Camisa": "10"
+    },
+    {
+    "id": 10,
+    "nome": "Sterling",
+    "email": "Assistente@Sterling.football",
+    "time": "Chelsea",
+    "pais": "Reino Unido",
+    "Selecao": "Inglaterra",
+    "Camisa": "10"
+    }
+],
+    "Camisa10": [
+    {
+    "id": 1,
+    "body": "jogador com a camisa 10",
+    "postId": 1
+    },
+    {
+    "id": 2,
+    "body": "jogador com a camisa 10",
+    "postId": 2
+    },
+    {
+    "id": 7,
+    "body": "jogador com a camisa 10",
+    "postId": 7
+    },
+    {
+    "id": 8,
+    "body": "jogador com a camisa 10",
+    "postId": 8
+    },
+    {
+    "id": 9,
+    "body": "jogador com a camisa 10",
+    "postId": 9
+    },
+    {
+    "id": 10,
+    "body": "jogador com a camisa 10",
+    "postId": 10
+    }
+    ]
+}
