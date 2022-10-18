@@ -91,36 +91,75 @@
     "Camisa": "10"
     }
 ],
-    "Camisa10": [
+    "Camisa10": [ "nome": "Sterling",
+    "email": "Assistente@Sterling.football",
+    "time": "Chelsea",
+    "pais": "Reino Unido",
+    "Selecao": "Inglaterra",
     {
     "id": 1,
     "body": "jogador com a camisa 10",
     "postId": 1
+    "nome": "Neymar", "nome": " Mbappé ",
+    "email": " Mbappé@jogador.assistente",
+    "time": "Paris Saint-Germain (psg)",
+    "pais": "França",
+    "Selecao": "Franca",
+    "email": "Assistenteneymar@jogador.10",
+    "time": "Paris Saint-Germain (psg)",
+    "pais": "França",
+    "Selecao": "Brasil",
+     
     },
     {
     "id": 2,
     "body": "jogador com a camisa 10",
     "postId": 2
+    "nome": "Lionel Messi",
+    "email": "Assistentemessi@jogador.gol",
+    "time": "Paris Saint-Germain (psg)",
+    "pais": "França",
+    "Selecao": "Argentina",
     },
     {
     "id": 7,
     "body": "jogador com a camisa 10",
     "postId": 7
+    "nome": "Diego Ribas",
+    "email": "diego@ribasassistente.br",
+    "time": "Flamengo",
+    "pais": "Brasil",
+    "Selecao": "Brasil",
     },
     {
     "id": 8,
     "body": "jogador com a camisa 10",
     "postId": 8
+    "nome": "Arrascaeta ",
+    "email": "Assistente@giorgian.10",
+    "time": "Flamengo",
+    "pais": "Brasil",
+    "Selecao": "Uruguai",
     },
     {
     "id": 9,
     "body": "jogador com a camisa 10",
     "postId": 9
+    "nome": " Mbappé ",
+    "email": " Mbappé@jogador.assistente",
+    "time": "Paris Saint-Germain (psg)",
+    "pais": "França",
+    "Selecao": "Franca",
     },
     {
     "id": 10,
     "body": "jogador com a camisa 10",
     "postId": 10
+    "nome": "Sterling",
+    "email": "Assistente@Sterling.football",
+    "time": "Chelsea",
+    "pais": "Reino Unido",
+    "Selecao": "Inglaterra",
     }
     ]
 }
