@@ -91,20 +91,13 @@
     "Camisa": "10"
     }
 ],
-    "Camisa10": [ "nome": "Sterling",
-    "email": "Assistente@Sterling.football",
-    "time": "Chelsea",
-    "pais": "Reino Unido",
-    "Selecao": "Inglaterra",
+    "Camisa10": 
+ [
     {
     "id": 1,
     "body": "jogador com a camisa 10",
-    "postId": 1
-    "nome": "Neymar", "nome": " Mbappé ",
-    "email": " Mbappé@jogador.assistente",
-    "time": "Paris Saint-Germain (psg)",
-    "pais": "França",
-    "Selecao": "Franca",
+    "postId": 1,
+    "nome": "Neymar",
     "email": "Assistenteneymar@jogador.10",
     "time": "Paris Saint-Germain (psg)",
     "pais": "França",
@@ -114,7 +107,7 @@
     {
     "id": 2,
     "body": "jogador com a camisa 10",
-    "postId": 2
+    "postId": 2,
     "nome": "Lionel Messi",
     "email": "Assistentemessi@jogador.gol",
     "time": "Paris Saint-Germain (psg)",
@@ -124,7 +117,7 @@
     {
     "id": 7,
     "body": "jogador com a camisa 10",
-    "postId": 7
+    "postId": 7,
     "nome": "Diego Ribas",
     "email": "diego@ribasassistente.br",
     "time": "Flamengo",
@@ -134,7 +127,7 @@
     {
     "id": 8,
     "body": "jogador com a camisa 10",
-    "postId": 8
+    "postId": 8,
     "nome": "Arrascaeta ",
     "email": "Assistente@giorgian.10",
     "time": "Flamengo",
@@ -144,7 +137,7 @@
     {
     "id": 9,
     "body": "jogador com a camisa 10",
-    "postId": 9
+    "postId": 9,
     "nome": " Mbappé ",
     "email": " Mbappé@jogador.assistente",
     "time": "Paris Saint-Germain (psg)",
@@ -154,7 +147,7 @@
     {
     "id": 10,
     "body": "jogador com a camisa 10",
-    "postId": 10
+    "postId": 10,
     "nome": "Sterling",
     "email": "Assistente@Sterling.football",
     "time": "Chelsea",
